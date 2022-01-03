@@ -1,0 +1,21 @@
+{
+    "name": "rovsrg-engine",
+    "tree": {
+      "$className": "DataModel",
+
+      "ReplicatedStorage": {
+        "$className": "ReplicatedStorage",
+        "Engine": {
+          "$path": "src"
+        }
+      },
+
+      "StarterPlayer": {
+        "$className": "StarterPlayer",
+        "StarterPlayerScripts": {
+            "$className": "StarterPlayerScripts",
+            "$path": "test"
+        }
+      }
+    }
+  }

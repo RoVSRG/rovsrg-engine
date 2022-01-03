@@ -1,0 +1,7 @@
+{
+  "name": "rovsrg-engine",
+  "tree": {
+    "$className": "DataModel",
+    "$path": "src"
+  }
+}
